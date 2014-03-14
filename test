@@ -1,0 +1,25 @@
+8
+le 23 3
+li 16 7
+##end
+lo 16 3
+lu 16 5
+toto 3 9
+tata 1 0
+##start
+tutu 4 8
+la 9 5
+la-lu
+la-tata
+le-lo
+lu-lo
+toto-li
+lo-toto
+lu-li
+#dsgsdg
+li-le
+tutu-tata
+#yolo
+tutu-li
+tutu-lu
+tata-toto
